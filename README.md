@@ -2,8 +2,6 @@
 - Feel free to play around with other elements, such as image views, textfields, etc.
 - Iplement a way to change the color of the text as well
 
-# App Concept Overview
-
 ## Plex
 - *Customization*: Tailor your Plex experience with the ability to change the app icon and personalize the app's appearance.
 - *Intuitive Design*: Enjoy a seamless and straightforward navigation system for effortless use.
